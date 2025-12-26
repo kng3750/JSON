@@ -1,0 +1,5 @@
+{
+  "name": "Video Prompt JSON Generator",
+  "description": "자연어로 영상을 만들어 라고 할때  json포맷 프롬프트 로 만들어주는 앱",
+  "requestFramePermissions": []
+}
